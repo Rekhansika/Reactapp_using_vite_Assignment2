@@ -8,8 +8,12 @@ function App() {
 
   return (
     <>
-      <h1>Goluguri Rekhansika</h1>
-      <h3>goluguri.rekhansika.s89@kalvium.community</h3>
+    <div className='home'>
+    <h1>Goluguri Rekhansika</h1>
+    <h3>goluguri.rekhansika.s89@kalvium.community</h3>
+
+    </div>
+      
     </>
   )
 }
